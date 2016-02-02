@@ -76,6 +76,7 @@
     <Compile Include="ArrayFunctions.vb" />
     <Compile Include="class\gameserver\DynamicFieldStorage.vb" />
     <Compile Include="class\gameserver\GamespyPlayer.vb" />
+    <Compile Include="class\gameserver\GamespyServerGroup.vb" />
     <Compile Include="class\network\packets [tcp]\MessagePacket.vb" />
     <Compile Include="class\network\packets [tcp]\ServerinfoRequestPacket.vb" />
     <Compile Include="class\network\packets [udp]\ChallengeRequestPacket.vb" />
